@@ -1,0 +1,14 @@
+.page-header {
+  background-color: rgb(48, 143, 108);
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.question-card {
+  /*rgb(247, 240, 230)*/
+  background-color: rgb(140, 176, 163);
+  border: 1px solid rgb(48, 143, 108);
+  border-radius: 4px;
+  padding: 20px;
+  margin-top: 20px;
+}
